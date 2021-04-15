@@ -1,0 +1,27 @@
+{
+  "name": "red-contrib-nodetest",
+  "version": "1.0.0",
+  "description": "node_create_test",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "lower-case": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KENJI1031/node-red-contrib-nodetest.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "nyamn",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KENJI1031/node-red-contrib-nodetest/issues"
+  },
+  "homepage": "https://github.com/KENJI1031/node-red-contrib-nodetest#readme"
+}
